@@ -45,7 +45,7 @@
 
             else
             {
-                Console.WriteLine("Quantia solicitada ultrapassa o saldo + limite");
+                Console.WriteLine("A Quantia solicitada ultrapassa o saldo + limite");
             }
         }
 
